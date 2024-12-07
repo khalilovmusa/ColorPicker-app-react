@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color-picker-container{
+    height: 80vh;
+    width: 40vw;
+}
+.color-display{
+    height: 80%;
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top:  10px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
